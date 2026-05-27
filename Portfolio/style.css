@@ -65,7 +65,7 @@ nav a{
         transform 0.3s ease;
 }
 
-nav a.active{
+nav a#active{
     color: black;
     font-weight: 600;
 }
